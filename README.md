@@ -1,2 +1,2 @@
 # CodingBatProblems
-Using CodingBat.com to review for class
+Using CodingBat.com to review for next semester
